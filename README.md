@@ -1,2 +1,2 @@
 ### Junior React Front-End Developer
-!(CodeWars rate)[https://www.codewars.com/users/HandyFOff/badges/large]
+!(CodeWars rate)[https://github.com/HandyFOff/HandyFOff/blob/main/images/codewars.svg]
